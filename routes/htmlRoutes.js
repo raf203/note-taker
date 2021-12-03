@@ -1,4 +1,6 @@
 const path = require('path');
+
+//Export notes and index.html
 module.exports = (app) => {
 app.get('/notes', (req, res) => {
         res.sendFile(path.join(__dirname, '../public/notes.html'));
