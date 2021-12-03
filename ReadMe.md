@@ -25,6 +25,10 @@ An application that permits to write notes, save them and delete if it's necessa
 The app can work locally or deploy by Heroku.
 
 Heroku: https://glacial-bayou-22732.herokuapp.com/
+
+<img width="1440" alt="Screen Shot 2021-12-03 at 1 15 02 PM" src="https://user-images.githubusercontent.com/89607465/144673831-b8f84f33-aaa6-4d91-9fa4-803b62cd2409.png">
+
+
     
 ## License
 MIT License
