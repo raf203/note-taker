@@ -12,8 +12,8 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static('public'));
 
-app.use('/api', apiRoutes);
-app.use('/', htmlRoutes);
+require('./routes/apiRoutes')(app);
+require('./routes/htmlRoutes')(app);
 
 
 //set up the port
