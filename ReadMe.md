@@ -16,7 +16,7 @@ An application that permits to write notes, save them and delete if it's necessa
 * [Questions](#questions)
         
 ## Installation
-1- Clone from the GitHub repository (git@github.com:raf203/note-taker.git) 
+1- Clone from the GitHub repository (https://github.com/raf203/note-taker) 
 2- Install node.js (npm init -y) 
 3- Install express.js (npm install express) 
 4- Install generate unique id (npm install generate-unique-id)
